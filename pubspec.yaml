@@ -1,0 +1,65 @@
+name: nutriscale
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  flutter_launcher_icons: ^0.14.3
+  syncfusion_flutter_gauges: ^24.2.5
+  fl_chart: ^0.64.0
+  google_fonts: ^6.2.1
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  flutter_otp_text_field: ^1.5.1+1
+  google_sign_in: ^6.3.0
+  connectivity_plus: ^6.1.4
+  sidebarx: ^0.17.1
+  google_nav_bar: ^5.0.7
+  percent_indicator: ^4.2.5
+  line_awesome_flutter: ^3.0.1
+  cloud_firestore: ^5.6.7
+  crypto: ^3.0.6
+  http: ^1.4.0
+  image_picker: ^1.0.4
+  get_storage: ^2.1.1
+  pie_chart: ^5.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/login_screen/welcome.png
+    - assets/images/login_screen/google.png
+    - assets/images/welcome_image/welcomScreen.jpeg
+    - assets/images/welcome_image/welcomeScreen.jpeg
+    - assets/logo/applogo.jpeg
+    - assets/images/splash_screen_images/
+    - assets/images/forgotPass/forgot_pass.jpeg
+    - assets/images/profile_image/man.png
+    - assets/images/profile_image/boy.png
+    - assets\images\profile_image\girl.png
+    - assets\images\profile_image\girl3.png
+    - assets\images\profile_image\girll2.png
+    - assets\images\profile_image\man2.png
+    - assets\images\profile_image\man3.png
+    - assets\images\profile_image\woman2.png
+    - assets\images\profile_image\woman3.png
+    - assets\images\profile_image\women1.png
+    - assets/images/welcome_image/welScrNobg.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/logo/applogo.jpeg

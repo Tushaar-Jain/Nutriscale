@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4097883753",
+    "project_id": "nutriscale",
+    "storage_bucket": "nutriscale.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4097883753:android:781fc7b75da04aa869ecf8",
+        "android_client_info": {
+          "package_name": "com.example.nutriscale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAEcd8PYD6sJEYQ8bYtVVcMAIl9ortm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

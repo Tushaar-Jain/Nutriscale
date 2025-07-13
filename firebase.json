@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"nutriscale","appId":"1:4097883753:android:781fc7b75da04aa869ecf8","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"nutriscale","configurations":{"android":"1:4097883753:android:781fc7b75da04aa869ecf8","ios":"1:4097883753:ios:511c8be03593d54669ecf8"}}}}}}
